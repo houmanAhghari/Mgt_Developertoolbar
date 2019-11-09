@@ -1,4 +1,4 @@
-Mgt Developer Toolbar for Magento 2
+Mgt Developer Toolbar for Magento 2.*
 ============================
 
 The Mgt Developer Toolbar is a must have for Magento 2 developers and frontend guys.
@@ -50,8 +50,6 @@ rm -rf var/*
 
 php bin/magento setup:static-content:deploy
 ```
-
-
 ## Usage
 
 To enable / disable the toolbar go to Stores --> Configuration --> MGT-COMMERCE.COM --> Developer Toolbar
